@@ -9,7 +9,10 @@
 **[יצירת repo חדש מהתבנית](https://github.com/new?template_name=react-project-starter&template_owner=YarivGilad)**.
 תנו לו שם, בחרו **Public**, ולחצו **Create repository**.
 
-(אותו דבר מהעמוד הזה: כשאתם מחוברים, ליד הכפתור הירוק **Code** מופיע כפתור **Use this template** ← **Create a new repository**. בלי חיבור ל-GitHub הכפתור לא מופיע.)
+אפשר גם מהעמוד הזה: כשאתם מחוברים ל-GitHub, בפינה הימנית העליונה מופיע הכפתור **Use this template** ← **Create a new repository**.
+בלי חיבור ל-GitHub הכפתור לא מופיע.
+
+<img src=".github/images/use-this-template.png" alt="Use this template → Create a new repository" width="300">
 
 **2 · מורידים אותו למחשב.**
 
