@@ -5,8 +5,11 @@
 
 ## מתחילים
 
-**1 · יוצרים repo משלכם.** לחצו על הכפתור הירוק **Use this template** ← **Create a new repository**, ובחרו **Public**.
-עדיף על Fork: ה-repo שלכם מתחיל עם היסטוריה נקייה, ולא מחובר ל-repo הזה.
+**1 · יוצרים repo משלכם.** היכנסו ל-GitHub עם המשתמש שלכם, ופתחו את הקישור:
+**[יצירת repo חדש מהתבנית](https://github.com/new?template_name=react-project-starter&template_owner=YarivGilad)**.
+תנו לו שם, בחרו **Public**, ולחצו **Create repository**.
+
+(אותו דבר מהעמוד הזה: כשאתם מחוברים, ליד הכפתור הירוק **Code** מופיע כפתור **Use this template** ← **Create a new repository**. בלי חיבור ל-GitHub הכפתור לא מופיע.)
 
 **2 · מורידים אותו למחשב.**
 
